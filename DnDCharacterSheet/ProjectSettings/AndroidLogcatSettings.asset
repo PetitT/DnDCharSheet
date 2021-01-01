@@ -1,0 +1,179 @@
+{
+    "m_SelectedDeviceId": "0b15ee25",
+    "m_SelectedPackage": {
+        "deviceId": "0b15ee25",
+        "name": "com.LowTeeGames.DnDCharacterSheet",
+        "processId": 22891,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 2520,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 4318,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 5597,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 7578,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 10697,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 13254,
+            "exited": true
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 24453,
+            "exited": true
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 27768,
+            "exited": true
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 9513,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 11533,
+            "exited": true
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 13427,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 14686,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 16235,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 18932,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 12911,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 14794,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 17583,
+            "exited": true
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 19189,
+            "exited": false
+        },
+        {
+            "deviceId": "0b15ee25",
+            "name": "com.LowTeeGames.DnDCharacterSheet",
+            "processId": 22891,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
